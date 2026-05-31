@@ -1,4 +1,4 @@
-Officially, I'm a fullstack web developer.
+Officially, I'm a fullstack developer.
 
 I am a Linux admin, privacy enthusiast, ethical hacker, free speech advocate.
 
